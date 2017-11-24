@@ -1,0 +1,21 @@
+{
+  "name": "fp-youtube-search",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "daggy": "^1.2.0",
+    "data.either": "^1.5.1",
+    "data.maybe": "^1.2.2",
+    "data.task": "^3.1.1",
+    "ramda": "^0.25.0",
+    "react": "^16.1.1",
+    "react-dom": "^16.1.1",
+    "react-scripts": "1.0.17"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
